@@ -16,4 +16,10 @@
 
 #edit everything from vs code and then push it up, run all of the commands above again to "save the changes"
 
+#in the vs code terminal, the things listed on the RHS are the different terminal options: we want bash
 
+#pwd gives the link to where you are on your computer
+#ls lists all the files that are in the folder you are in
+#cd allows you to change directory so if you want to move forward: cd folder/filename
+#cd .. brings you back a directory 
+#cd ~ brings you to your home directory
