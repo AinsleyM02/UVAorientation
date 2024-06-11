@@ -1,6 +1,8 @@
 #this is a test file
 #using .py signifies its a python script
 #cntrl S to save it
+#In vs code, to be able to push to the repository you must open the folder that is the cloned repository within vs code first
+
 
 #when you clone a git hub repository you get a copy on your local machine
 #to clone: Connect github repsity to vs code: click on home of repository>
