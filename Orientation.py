@@ -11,7 +11,7 @@
 #>do cntl Shift p (this pulls up all command you could do for vs code)> type in "git clone"
 #>paste the url you copied from repositroy> enter>click the folder you want the reposity contained in> then select as repository destination
 #then can use commands to push and pull things to the main repository hosted online
-
+#https://codingcampus.net/how-to-clone-a-github-repository-in-visual-studio-code/#:~:text=Follow%20these%20steps%20to%20get%20it%3A%201%20From,your%20repository%20directly%20to%20the%20VS%20Code.%20
 
 #if I wanted to upload  "push" this file or changes from vs code to github: open terminal: view>terminal>
 #arrow beside the>gitbash>go to actual terminal line>git add . >
