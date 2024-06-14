@@ -21,3 +21,10 @@
 #conda: software for getting things onto computer
 
 #notebook: googlecolab or jupyter
+
+#Conda:
+#The puspose of having multiple environments is to be able to have one project with one 
+# version of python and extentions and then another project with another version of python and extensions
+#To make a new conda environment: conda create --name myenv > conda activate myenv > to install things: conda install or pip install >then to deactivate: conda deactivate
+#if get an error when doing this: try to do "conda activate base" first then conda activate myenv
+#"conda info --envs" tells you which environemnts you have at all
